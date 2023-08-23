@@ -1,0 +1,15 @@
+# Don't include builds of jobs, we might face merge conflicts
+*builds
+*nextBuildNumber
+
+*branches
+*indexing
+
+.idea
+
+*workspace
+
+vault.json
+setup_vault_gha.sh
+
+.env
